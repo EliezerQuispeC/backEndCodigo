@@ -119,33 +119,75 @@ namespace Ejercicios2
             Console.WriteLine(linea2);
             Console.WriteLine("******************************************************");
             Console.WriteLine(linea3);
+        }
 
+        static void Ejercicio21()
+        {
+            int x = 0;
+            int resultado = 0;
+            while (x <= 10)
+            {
+                resultado = (3 * x) + (2 * x) - 5;
+                Console.WriteLine("Para " + x + " el resultado es : " + resultado);
+                x++;
+            }
         }
         
+        static void Ejercicio22()
+        {
+            int x = 0;
+            int resultado = 0;
+            while (x <= 40)
+            {
+                resultado = (3 * x) + 15 - (2 * (2 * x)) + 3;
+                Console.WriteLine("Para " + x + " el resultado es : " + resultado);
+                x += 2;
+            }
+        }
+        
+        static void Ejercicio23()
+        {
+            double x = -10;
+            double resultado = 0;
+            Console.WriteLine("Ingrese la variable N");
+            int n = Int32.Parse(Console.ReadLine());
+            while(x <= n)
+            {
+                resultado = (4/(3 * x) - (2 * x)) / (x + 3);
+                Console.WriteLine("Para " + x + " el resultado es : " + resultado);
+                x += 0.5;
+            }
+        }
         static void Main(string[] args)
         {
+            Console.WriteLine("Ingrese el número de ejercicio a resolver:");
             int opc = Int32.Parse(Console.ReadLine());
             switch (opc)
             {
                 case 4:
                     Ejercicio4();
-                break;
-
+                    break;
                 case 8:
                     Ejercicio8();
-                break;
-
+                    break;
                 case 12:
                     Ejercicio12();
-                break;
-
+                    break;
                 case 16:
                     Ejercicio16();
-                break;
-
+                    break;
                 case 20:
                     Ejercicio20();
-                break;
+                    break;
+                case 21:
+                    Ejercicio21();
+                    break;
+                case 22:
+                    Ejercicio22();
+                    break;
+                case 23:
+                    Ejercicio23();
+                    break;
             }
         }
     }
