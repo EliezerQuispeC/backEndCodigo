@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "FuncionesEliezerQuispeC/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp2.1/Funciones.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Funciones.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.1.0": {
         "type": "package",
         "dependencies": {
@@ -207,23 +219,22 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "FuncionesEliezerQuispeC/1.0.1": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "2.1.0"
-        },
-        "compile": {
-          "bin/placeholder/FuncionesEliezerQuispeC.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FuncionesEliezerQuispeC.dll": {}
-        }
       }
     }
   },
   "libraries": {
+    "FuncionesEliezerQuispeC/1.0.1": {
+      "sha512": "0wbld5l57TjoQ8+rMj1d1wPe4YN7MXttBRRNdlUaOkPLq0uVjRQ01BeUglSMTywqNDPdqvgO0klzcqQMKFi7GA==",
+      "type": "package",
+      "path": "funcioneseliezerquispec/1.0.1",
+      "files": [
+        ".signature.p7s",
+        "funcioneseliezerquispec.1.0.1.nupkg.sha512",
+        "funcioneseliezerquispec.nuspec",
+        "lib/netcoreapp2.1/Funciones.dll",
+        "lib/netcoreapp2.1/Funciones.runtimeconfig.json"
+      ]
+    },
     "Microsoft.NETCore.App/2.1.0": {
       "sha512": "AvT774nTFgU8cYcGO9j1EMwuayKslxqYTurg32HGpWa2hEYNuW2+XgYVVNcZe6Ndbr84QX6fwaOZfd5n+1m2OA==",
       "type": "package",
@@ -686,11 +697,6 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "FuncionesEliezerQuispeC/1.0.1": {
-      "type": "project",
-      "path": "../Funciones/Funciones.csproj",
-      "msbuildProject": "../Funciones/Funciones.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -706,11 +712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Recursos\\22-10\\back\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
+      "projectUniqueName": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
       "projectName": "Ejercicios",
-      "projectPath": "D:\\Recursos\\22-10\\back\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
+      "projectPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "D:\\Recursos\\22-10\\back\\Ejercicios\\Ejercicios\\obj\\",
+      "outputPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Ejercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,11 +734,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "D:\\Recursos\\22-10\\back\\Ejercicios\\Funciones\\Funciones.csproj": {
-              "projectPath": "D:\\Recursos\\22-10\\back\\Ejercicios\\Funciones\\Funciones.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -744,6 +746,10 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "FuncionesEliezerQuispeC": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "[2.1.0, )",

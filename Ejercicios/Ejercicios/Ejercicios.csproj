@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Funciones\Funciones.csproj" />
+    <PackageReference Include="FuncionesEliezerQuispeC" Version="1.0.1" />
   </ItemGroup>
 
 </Project>

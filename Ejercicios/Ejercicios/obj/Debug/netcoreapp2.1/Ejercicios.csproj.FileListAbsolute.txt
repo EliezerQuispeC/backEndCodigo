@@ -23,3 +23,14 @@ D:\Recursos\22-10\back\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.
 D:\Recursos\22-10\back\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Funciones.dll
 D:\Recursos\22-10\back\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Funciones.pdb
 D:\Recursos\22-10\back\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.csproj.CopyComplete
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\bin\Debug\netcoreapp2.1\Ejercicios.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios\Ejercicios\obj\Debug\netcoreapp2.1\Ejercicios.pdb

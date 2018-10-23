@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "D:\\Recursos\\22-10\\back\\Ejercicios\\Funciones\\Funciones.csproj",
+      "projectUniqueName": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Funciones\\Funciones.csproj",
       "projectName": "FuncionesEliezerQuispeC",
-      "projectPath": "D:\\Recursos\\22-10\\back\\Ejercicios\\Funciones\\Funciones.csproj",
+      "projectPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Funciones\\Funciones.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "D:\\Recursos\\22-10\\back\\Ejercicios\\Funciones\\obj\\",
+      "outputPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\backEndCodigo\\Ejercicios\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

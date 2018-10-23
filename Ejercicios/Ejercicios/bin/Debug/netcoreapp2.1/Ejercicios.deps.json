@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "Ejercicios/1.0.0": {
-        "dependencies": {
-          "FuncionesEliezerQuispeC": "1.0.1"
-        },
         "runtime": {
           "Ejercicios.dll": {}
-        }
-      },
-      "FuncionesEliezerQuispeC/1.0.1": {
-        "runtime": {
-          "Funciones.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Ejercicios/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "FuncionesEliezerQuispeC/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
