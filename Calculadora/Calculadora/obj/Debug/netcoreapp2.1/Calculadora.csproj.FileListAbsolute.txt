@@ -1,0 +1,14 @@
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.json
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.dev.json
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.dll
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.pdb
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.dll
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.pdb
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Operaciones.dll
+c:\users\tecsup\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Operaciones.pdb
+c:\users\tecsup\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csproj.CopyComplete

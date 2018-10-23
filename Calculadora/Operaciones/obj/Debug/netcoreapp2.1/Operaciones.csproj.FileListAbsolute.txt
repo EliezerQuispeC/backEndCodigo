@@ -1,0 +1,11 @@
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.deps.json
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.json
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.pdb
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\Tecsup\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.pdb
