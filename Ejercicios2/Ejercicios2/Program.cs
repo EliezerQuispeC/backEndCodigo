@@ -6,7 +6,41 @@ namespace Ejercicios2
 {
     class Program
     {
-        public static void Ejercicio4()
+        static void Ejercicio1()
+        {
+            int acumulador = 0;
+            for(int i = 1; i <= 7; i++)
+            {
+                Console.WriteLine("Ingrese la " + i + " nota");
+                acumulador = acumulador + Int32.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("El promedio es : " + (acumulador / 7)); 
+        }
+
+        static void Ejercicio2()
+        {
+            for(int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Número " + i + "; Cubo " + Math.Pow(i,3) + "; Cuarta" + Math.Pow(i,4));
+            }
+        }
+
+        static void Ejercicio3()
+        {
+            string acumulador = "";
+            int x = 0;
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Ingrese el " + i + " número");
+                x = Int32.Parse(Console.ReadLine());
+                if (x > 0)
+                {
+                    acumulador = acumulador  + x.ToString() + ",";
+                }
+            }
+            Console.WriteLine("Los positivos " + acumulador);
+        }
+        static void Ejercicio4()
         {
             Console.WriteLine("Ingrese 20 números");
             int[] numeros = new int[20];
@@ -32,6 +66,52 @@ namespace Ejercicios2
             Console.WriteLine("Positivos : " + positivos + " Negativos : " + negativos + " Neutros : " + neutros);
         }
 
+        static void Ejercicio5()
+        {
+            int numero = 0;
+            string acumulador = "";
+
+            for (int i = 0; i < 15; i++)
+            {
+                Console.WriteLine("Ingrese el " + (i + 1) + " número");
+                numero = Int32.Parse(Console.ReadLine());
+                if (numero > 0)
+                {
+                    Console.WriteLine("Por favor ingrese un número negativo");
+                    i--;
+                }
+                else
+                {
+                    acumulador = acumulador + Math.Abs(numero) + ",";
+                }
+            }
+            Console.WriteLine("Números convertidos : " + acumulador);
+        }
+
+        static void Ejercicio6()
+        {
+            int[] notas = new int[10]{10, 15, 12, 04, 17, 29, 08, 20, 13, 15};
+            int nota1 = notas[0];
+            int aux = 0;
+
+            for (int i = 1; i <= 10; i++)
+            {
+                for (int j = 9; j > 0; j--)
+                {
+                    aux = j - 1; 
+                    if (notas[j] < notas[aux])
+                    {
+                        nota1 = notas[aux];
+                        notas[aux] = notas[j];
+                        notas[j] = nota1;
+                    }
+                }
+            }
+            foreach(var item in notas)
+            {
+                Console.WriteLine(item.ToString());
+            }
+        }
         static void Ejercicio8()
         {
             int h = 8;
@@ -164,8 +244,23 @@ namespace Ejercicios2
             int opc = Int32.Parse(Console.ReadLine());
             switch (opc)
             {
+                case 1:
+                    Ejercicio1();
+                    break;
+                case 2:
+                    Ejercicio2();
+                    break;
+                case 3:
+                    Ejercicio3();
+                    break;
                 case 4:
                     Ejercicio4();
+                    break;
+                case 5:
+                    Ejercicio5();
+                    break;
+                case 6:
+                    Ejercicio6();
                     break;
                 case 8:
                     Ejercicio8();

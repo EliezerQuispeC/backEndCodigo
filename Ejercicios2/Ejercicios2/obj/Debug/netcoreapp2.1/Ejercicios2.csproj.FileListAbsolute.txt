@@ -9,3 +9,14 @@ C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios2\Ejercicios2\bin\Debug
 C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.pdb
 C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.dll
 C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.pdb
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.deps.json
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.runtimeconfig.json
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.runtimeconfig.dev.json
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.dll
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\bin\Debug\netcoreapp2.1\Ejercicios2.pdb
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.csprojAssemblyReference.cache
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.csproj.CoreCompileInputs.cache
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.AssemblyInfoInputs.cache
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.AssemblyInfo.cs
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.dll
+D:\Recursos\23-10\Ejercicios2\Ejercicios2\obj\Debug\netcoreapp2.1\Ejercicios2.pdb
