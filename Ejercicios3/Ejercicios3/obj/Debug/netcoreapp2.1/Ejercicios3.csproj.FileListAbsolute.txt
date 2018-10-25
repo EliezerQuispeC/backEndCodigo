@@ -1,0 +1,11 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\bin\Debug\netcoreapp2.1\Ejercicios3.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\bin\Debug\netcoreapp2.1\Ejercicios3.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\bin\Debug\netcoreapp2.1\Ejercicios3.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\bin\Debug\netcoreapp2.1\Ejercicios3.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\bin\Debug\netcoreapp2.1\Ejercicios3.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios3\Ejercicios3\obj\Debug\netcoreapp2.1\Ejercicios3.pdb
