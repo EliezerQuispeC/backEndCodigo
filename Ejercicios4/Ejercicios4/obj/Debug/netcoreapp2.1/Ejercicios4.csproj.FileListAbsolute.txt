@@ -1,0 +1,11 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\bin\Debug\netcoreapp2.1\Ejercicios4.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\bin\Debug\netcoreapp2.1\Ejercicios4.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\bin\Debug\netcoreapp2.1\Ejercicios4.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\bin\Debug\netcoreapp2.1\Ejercicios4.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\bin\Debug\netcoreapp2.1\Ejercicios4.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Ejercicios4\Ejercicios4\obj\Debug\netcoreapp2.1\Ejercicios4.pdb
