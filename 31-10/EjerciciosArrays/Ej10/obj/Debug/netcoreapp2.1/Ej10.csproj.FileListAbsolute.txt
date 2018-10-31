@@ -1,0 +1,10 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\bin\Debug\netcoreapp2.1\Ej10.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\bin\Debug\netcoreapp2.1\Ej10.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\bin\Debug\netcoreapp2.1\Ej10.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\bin\Debug\netcoreapp2.1\Ej10.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\bin\Debug\netcoreapp2.1\Ej10.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\obj\Debug\netcoreapp2.1\Ej10.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\obj\Debug\netcoreapp2.1\Ej10.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\obj\Debug\netcoreapp2.1\Ej10.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\obj\Debug\netcoreapp2.1\Ej10.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\31-10\EjerciciosArrays\Ej10\obj\Debug\netcoreapp2.1\Ej10.pdb

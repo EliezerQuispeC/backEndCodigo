@@ -1,0 +1,10 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\bin\Debug\netcoreapp2.1\Ej3.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\bin\Debug\netcoreapp2.1\Ej3.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\bin\Debug\netcoreapp2.1\Ej3.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\bin\Debug\netcoreapp2.1\Ej3.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\bin\Debug\netcoreapp2.1\Ej3.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\obj\Debug\netcoreapp2.1\Ej3.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\obj\Debug\netcoreapp2.1\Ej3.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\obj\Debug\netcoreapp2.1\Ej3.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\obj\Debug\netcoreapp2.1\Ej3.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\Ej3\obj\Debug\netcoreapp2.1\Ej3.pdb
