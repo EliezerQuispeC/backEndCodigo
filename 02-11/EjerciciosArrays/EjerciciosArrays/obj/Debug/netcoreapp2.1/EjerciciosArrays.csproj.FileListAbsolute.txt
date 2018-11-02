@@ -1,0 +1,11 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\bin\Debug\netcoreapp2.1\EjerciciosArrays.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\bin\Debug\netcoreapp2.1\EjerciciosArrays.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\bin\Debug\netcoreapp2.1\EjerciciosArrays.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\bin\Debug\netcoreapp2.1\EjerciciosArrays.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\bin\Debug\netcoreapp2.1\EjerciciosArrays.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\EjerciciosArrays\EjerciciosArrays\obj\Debug\netcoreapp2.1\EjerciciosArrays.pdb
