@@ -1,0 +1,11 @@
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\bin\Debug\netcoreapp2.1\Clases1.deps.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\bin\Debug\netcoreapp2.1\Clases1.runtimeconfig.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\bin\Debug\netcoreapp2.1\Clases1.runtimeconfig.dev.json
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\bin\Debug\netcoreapp2.1\Clases1.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\bin\Debug\netcoreapp2.1\Clases1.pdb
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.csprojAssemblyReference.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.AssemblyInfo.cs
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.dll
+C:\Users\Tecsup\Documents\GitHub\backEndCodigo\Clases1\Clases1\obj\Debug\netcoreapp2.1\Clases1.pdb
